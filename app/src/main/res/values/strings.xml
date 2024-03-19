@@ -7,4 +7,5 @@
     <string name="login_user_pw">Senha</string>
     <string name="login_user_pw_placeHolder">Digite sua Senha</string>
 
+    <string name="login_buttom_login">logar</string>
 </resources>
