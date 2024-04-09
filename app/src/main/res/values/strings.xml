@@ -8,4 +8,20 @@
     <string name="login_user_pw_placeHolder">Digite sua Senha</string>
 
     <string name="login_buttom_login">logar</string>
+    <string name="login_buttom_register">Cadastrar</string>
+    <string name="login_buttom_forgotPw">Esqueci a Senha</string>
+
+    <string name="login_successful">Login Efetuado Com sucesso</string>
+    <string name="login_forgotPw">Implementar funcionalidade de esquecer senha</string>
+    <string name="login_register">Implementar funcionalidade de registro</string>
+
+    <string name="login_user_name_empty">nome de usuario vazio</string>
+    <string name="login_user_pw_empty">Senha vazia</string>
+    <string name="login_button_forgot_pw_message">IMplementar mensagem\n</string>
+    <string name="login_failure">Login ou Senha incorretas</string>
+
+    <!--CHAVE TELA HOME-->
+    <string name="home_title">Welcome Title\n</string>
+
+
 </resources>
